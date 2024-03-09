@@ -1,6 +1,6 @@
 # MyHomepage
 
-This is my streamlit website for TECHIN510-Lab1.
+This is my homepage!
 
 ## What's include
 
