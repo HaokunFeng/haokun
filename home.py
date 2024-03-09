@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 st.set_page_config(
-    page_title="MyHomepage",
+    page_title="Haokun's Homepage",
     page_icon="🚩",
     layout="centered",
     initial_sidebar_state="auto",
